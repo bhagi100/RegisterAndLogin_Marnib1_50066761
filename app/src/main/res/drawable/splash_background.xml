@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:drawable="@color/colorPrimary" />-->
+
+    <!-- Add other elements as needed, such as logo or text -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/wallpaper" />
+    </item>
+</layer-list>

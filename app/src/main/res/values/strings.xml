@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RegisterAndLogin_Marnib1_50066761</string>
+    <string name="welcome">Login</string>
+    <string name="register">Register</string>
+    <string name="text1">Don\'t have an account?</string>
+    <string name="register_here">Register Here!</string>
+    <string name="login_here">Login Here!!</string>
+    <string name="lets_join_us_and_build_your_relationship">Lets join us and build your relationship</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="get_started_with_your_free_account">Get started with your free account</string>
+    <string name="firstname">Your Firstname</string>
+    <string name="lastname">Your Lastname</string>
+    <string name="date_of_birth">Date of Birth</string>
+
+</resources>
