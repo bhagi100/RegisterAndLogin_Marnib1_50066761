@@ -76,5 +76,10 @@ public class MainActivity extends AppCompatActivity {
     private void registerUser() {
         //After successful login show this msg
         Toast.makeText(MainActivity.this, "User signed successfully!", Toast.LENGTH_SHORT).show();
+        // Create an Intent to open the QuizActivity
+        Intent intent = new Intent(MainActivity.this, Rules.class);
+
+        // Start the Quiz activity page on click
+        startActivity(intent);
     }
 }
